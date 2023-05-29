@@ -1,31 +1,41 @@
-<h1 align="center"> Twitter Clone </h1>
+<h1 align="center">Twitter Clone</h1>
 
-<p align="center">
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>
-</p>
+<h3 align="center">
+ Clone do Twitter
+</h3> <br/>
 
-## 🔖 Layout
+<div align="center">
+  <img src="./public/preview.png" alt="demonstração do projeto" >
+</div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/111329429/225742085-b09f96b2-52a5-417c-bdd2-410323808508.png">
-</p>
-
-## 🚀 Tecnologias
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-- ReactJS
-- TypeScript
-- CSS
-- React-Router
-- Git e Github
-
-## 💻 Projeto
-
-Você pode visualizar o projeto através [DESSE LINK](https://clone-app-twitter.netlify.app).
+<p align="center"><a href="https://clone-app-twitter.netlify.app/">Ver Projeto</a></p>
 
 ---
 
-[Link do meu perfil no Linkedin.](https://www.linkedin.com/in/felipe-moises-4a1b58248/)
+<h2>Tecnologias:</h2>
+
+- ReactJs
+- TypeScript
+- CSS
+- React-Router
+
+---
+
+<h2>Rodando o projeto:</h2>
+
+Você precisa ter o [Node](https://nodejs.org/en/), o [Git](https://git-scm.com/) e algum gerenciador de pacotes([NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm/) | [Yarn](https://classic.yarnpkg.com/lang/en/docs/install)) instalados em sua máquina.
+
+```bash
+1. Clone o repositório:
+$ git clone https://github.com/felipems1/twitter-clone.git
+
+2. Acesse a pasta e instale as dependências via terminal:
+$ yarn install / npm install
+
+3. Inicie a aplicação em modo de desenvolvimento:
+$ yarn dev / npm run dev
+
+4. O servidor será aberto em http://localhost:5173
+```
+
+<p align="center">Projeto feito com ❤️ por <a href="https://www.linkedin.com/in/felipems1/">Felipe Moises</a></p>
